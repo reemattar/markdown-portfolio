@@ -1,1 +1,16 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+Below is a list of my *technical skills* 
+
+### Software:
+- **AutoCAD**
+- Rhino 
+- Photoshop
+- Indesign 
+- Illustrator 
+- Sketchup 
+
+### Languages:
+- **Arabic**
+- English 
+- German 
+- French
